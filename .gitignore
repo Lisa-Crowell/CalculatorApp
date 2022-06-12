@@ -437,3 +437,4 @@ FodyWeavers.xsd
 
 *bin
 *obj
+*.idea
